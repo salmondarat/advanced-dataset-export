@@ -1,0 +1,14 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Illustrator / Adobe Temporary Files
+*.tmp
+*.lock
+*.ais
+
+# Output & Test Folders
+/output/
+/dist/
+/temp/
